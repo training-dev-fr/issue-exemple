@@ -65,7 +65,7 @@ function printCart() {
     console.log(cart);
 }
 
-addProductToCart({name: 'product1', price: 10, quantity: 10});
+addProductToCart({name: 'product12', price: 10, quantity: 10});
 addProductToCart({name: 'product2', price: 20, quantity: 1});
 addProductToCart({name: 'product3', price: 30, quantity: 1});
 printCart();
